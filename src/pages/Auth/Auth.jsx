@@ -29,7 +29,12 @@ const Auth = () => {
 		}
 	};
 	const register = async () => {
-		await createUserWithEmailAndPassword(auth, Remail, Rpassword);
+		if (confirmPassword!=Rpassword) {
+			alert("Passwords do not match");
+		}
+		else {
+			await createUserWithEmailAndPassword(auth, Remail, Rpassword);
+		}
 	};
 	useEffect(() => {
 		if (currentUser) {
