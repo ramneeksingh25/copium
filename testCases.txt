@@ -1,0 +1,97 @@
+Register/ Sign-up
+Name : Copium
+Email : copium@gmail.com
+Password : Copium123
+Confirm Password: Copium123
+
+
+Login
+Email : copium@gmail.com
+Password: Copium123
+
+
+
+Patient form
+Name : Copium
+Gender : Male
+Age : 19
+Consultation Specialist : General
+
+
+Payment Gateway
+
+Option 1:
+Step 1.  Click on  NetBanking
+Step 2. Choose any bank account
+Step 3. Make payment 
+
+Option 2:
+Step 1.  Click on  UPI
+Step 2. Enter UPI id ( copium@ybl )
+Step 3. Make payment 
+
+Option 3:
+Step 1.  Click on Pay later
+Step 2. Click on AmazonPay Later
+Step 3. Make payment 
+
+Chat with Doctor
+Patient : Hi docter!
+
+Doctor : Hi there, how can I help you today? What brings you in?
+
+Patient: I am having high fever since today morning.
+
+Doctor : Okay, I understand. Can you tell me a little more about the fever? For example:
+
+* What is your temperature? Do you have a thermometer at home to check it?
+* How high is the fever? Is it a low-grade fever, or is it very high?
+* What other symptoms are you experiencing? Do you have a headache, chills, muscle aches, sore throat, or any other symptoms?
+* Have you taken anything for the fever? Have you taken any over-the-counter medications or tried any home remedies?
+
+The more information you can give me, the better I can understand what's going on and how to help you.
+
+Patient : My temperature is 100F, and not experiencing any other symptoms. I haven't taken any medication yet.
+
+Doctor : Okay, thanks for letting me know. A temperature of 100F is definitely a fever, but it's not too high. Since you're not experiencing any other symptoms, it's possible it's just a mild viral infection that your body is fighting off.
+
+To help you feel better, I recommend:
+
+* Staying hydrated: Drink plenty of fluids like water, clear broth, or herbal tea.
+* Rest: Getting enough sleep is important for your body to recover.
+* Over-the-counter medications: You can try taking acetaminophen or ibuprofen to reduce the fever and any discomfort.
+
+I'd like to ask a few more questions:
+
+* Have you been in contact with anyone who's been sick recently?
+* Have you traveled recently?
+* Is there anything else you'd like to tell me about your overall health?
+
+Based on your answers, I might suggest further steps, such as a virtual visit or a trip to the clinic.
+
+Patient : suggest some medicines , I have to go on a meeting tomorrow.
+
+Doctor : I understand you need to feel better for your meeting tomorrow. While I can't prescribe medication over the internet, I can recommend some over-the-counter options that may help reduce your fever and discomfort:
+
+* Acetaminophen (Tylenol): This is a common fever reducer and pain reliever. Follow the directions on the packaging carefully.
+* Ibuprofen (Advil, Motrin): This medication can also reduce fever and pain. It's important to note that if you have any stomach issues, it's best to talk to me before taking ibuprofen.
+
+Important Considerations:
+
+* Dosage: Make sure you follow the recommended dosage on the medication bottle. Don't exceed the recommended amount.
+* Interactions: If you are taking any other medications, even over-the-counter ones, please check with a pharmacist to ensure there are no interactions.
+* Side effects: Be aware of potential side effects and seek medical advice if you experience anything concerning.
+
+Since you have a meeting tomorrow, it's also important to:
+
+* Get plenty of rest: Aim for 7-8 hours of sleep tonight.
+* Stay hydrated: Drink plenty of fluids throughout the day to help flush out any infection.
+
+To make sure you are on the right track, I would recommend:
+
+* Monitor your temperature: Continue to check your temperature throughout the day.
+* Observe any changes: If your fever worsens, you experience new symptoms like a cough, rash, or difficulty breathing, or you feel very unwell, please contact me again or seek urgent medical attention.
+
+I hope you feel better soon, and good luck with your meeting!  Patient : Thank you Doctor.
+
+
