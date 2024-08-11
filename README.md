@@ -6,6 +6,7 @@
 - **Figma Design**: [Copium Design on Figma](https://www.figma.com/design/0O6amKV2N0yFc5gPeXXiYO/Copium?node-id=0-1&t=miMQnBzkW6icpmr9-1)
 - **Presentation Video**: [Copium Presentation](https://drive.google.com/file/d/1SKo6BRLABW-UaV52DF-ukscKHNPr8kpv/view?usp=sharing)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xH1nhc0_nJ0/0.jpg)](https://www.youtube.com/watch?v=xH1nhc0_nJ0)
 
 ## Problem Statement
 
