@@ -43,7 +43,7 @@ Frontend: React.js, Figma for UI design
 
 Database: FireBase
 
-Payment Gateway: Stripe
+Payment Gateway: RazorPay
 
 Transcription Service: React Speech Recognization
 
