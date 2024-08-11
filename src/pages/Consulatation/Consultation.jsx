@@ -17,7 +17,7 @@ const Consultation = () => {
 	const [filled, setFilled] = useState(false);
 	const [paid, setPaid] = useState(false);
 	const [paymentData, setPaymentData] = useState(null);
-	const [NavToConsult, setNavToConsult] = useState(false);
+	const [NavToChat, setNavToChat] = useState(false);
 	const nav = useNavigate();
 	const saveDataToDB = async () => {
 		const patientData = { name, age, speciality, gender, image, user };
@@ -62,17 +62,17 @@ const Consultation = () => {
 				date.getFullYear() === now.getFullYear()
 			) {
 				const condition = (now.getTime()-date.getTime())/60000;
-				if(condition>=30){
-					setNavToConsult(true);
+				if(condition<=30){
+					setNavToChat(true);
 				}
 			}
 		}
 	}, [paymentData]);
 	useEffect(() => {
-		if (NavToConsult) {
-			nav("/");
+		if (NavToChat) {
+			nav("/chat");
 		}
-	}, [NavToConsult]);
+	}, [NavToChat]);
 	return (
 		<div className="bg-teal-500/20 text-teal-900 rounded-xl space-y-4 p-2 shadow-md">
 			<form
