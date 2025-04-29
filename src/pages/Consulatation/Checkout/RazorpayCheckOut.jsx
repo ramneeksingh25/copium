@@ -11,7 +11,7 @@ const RazorpayCheckout = ({filled,paymentFunction}) => {
   const nav = useNavigate();
   const handlePayment = () => {
     const options = {
-      key: 'rzp_test_8CZ2uFiU8B2sbz', 
+      key: 'rzp_test_Ggtb7A6laiF7l7', 
       amount: '20000', 
       currency: 'INR',
       name: 'Teleheath',
